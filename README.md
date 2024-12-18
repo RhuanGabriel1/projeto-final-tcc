@@ -34,14 +34,17 @@ Custo Total e Viabilidade Econômica: Esse pilar finaliza a análise econômica,
 
 # Telas principais
 
+Tela de login
 ![Screenshot 2024-12-02 00-22-09](https://github.com/user-attachments/assets/6f4b5de7-ccb6-40c2-9480-759a0133609c)
 
+Tela principal
 ![Screenshot 2024-12-02 00-23-20](https://github.com/user-attachments/assets/e35455b6-86cf-4368-916c-963ff545c7f0)
 
 ![Screenshot 2024-12-02 00-23-07](https://github.com/user-attachments/assets/43d34150-b66c-4681-9b6b-706a84b7b11c)
 
 ![Screenshot 2024-12-02 00-24-25](https://github.com/user-attachments/assets/fada7929-6289-4984-a1d0-602711f4a6d1)
 
+Tela de insumos
 ![Screenshot 2024-12-02 00-23-20](https://github.com/user-attachments/assets/888ee4da-c994-4cb0-a0c3-37cd5e8d2057)
 
 ![Screenshot 2024-12-04 21-25-56](https://github.com/user-attachments/assets/e33ed18a-8ddc-430b-9ff3-1fb182551613)
