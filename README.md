@@ -43,10 +43,19 @@ Tela principal
 
 ![Screenshot 2024-12-02 00-23-07](https://github.com/user-attachments/assets/43d34150-b66c-4681-9b6b-706a84b7b11c)
 
+Tela de insumos
+
+
 ![Screenshot 2024-12-02 00-24-25](https://github.com/user-attachments/assets/fada7929-6289-4984-a1d0-602711f4a6d1)
 
-Tela de insumos
+Tela de banco de dados: Sem dados
+
+
 ![Screenshot 2024-12-02 00-23-20](https://github.com/user-attachments/assets/888ee4da-c994-4cb0-a0c3-37cd5e8d2057)
+
+
+Tela de banco de dados: Resultado de pesquisa
+
 
 ![Screenshot 2024-12-04 21-25-56](https://github.com/user-attachments/assets/e33ed18a-8ddc-430b-9ff3-1fb182551613)
 
